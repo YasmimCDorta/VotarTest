@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\bin\Debug\net8.0\VotarTestU.deps.json
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\bin\Debug\net8.0\VotarTestU.dll
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\bin\Debug\net8.0\VotarTestU.pdb
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\obj\Debug\net8.0\VotarTestU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\obj\Debug\net8.0\VotarTestU.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\obj\Debug\net8.0\VotarTestU.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\obj\Debug\net8.0\VotarTestU.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\obj\Debug\net8.0\VotarTestU.dll
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\obj\Debug\net8.0\refint\VotarTestU.dll
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\obj\Debug\net8.0\VotarTestU.pdb
+C:\Users\SENAI3EM\Desktop\2B\VotarTestU\VotarTestU\VotarTestU\obj\Debug\net8.0\ref\VotarTestU.dll
